@@ -51,6 +51,8 @@ It is a compiler that makes using css easier by doing some of the work for you. 
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
 
+The media queries are so easy to add and how fast it develops a production version.
+
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
