@@ -221,6 +221,11 @@ p {
   font-size: 5rem;
   padding-bottom: 20px;
 }
+@media (max-width: 500px) {
+  .navigation h1 {
+    font-size: 3.4rem;
+  }
+}
 .navigation nav a {
   font-size: 1.6rem;
   color: #454A59;
@@ -285,6 +290,9 @@ img:hover {
 }
 .home .intro p {
   padding: 0 15px;
+}
+.home .intro .header-img {
+  width: 100%;
 }
 .home .space-images {
   display: flex;
